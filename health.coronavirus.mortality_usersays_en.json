@@ -1,0 +1,94 @@
+[
+  {
+    "id": "17424c4c-3f04-4249-92dd-b0455fda506e",
+    "data": [
+      {
+        "text": "What’s my mortality risk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36e62e32-482a-40c4-b8fe-7b5ffd8d1230",
+    "data": [
+      {
+        "text": "What are the fatality chances of coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "191ed6f0-9b53-4fa9-83f8-267211512c7a",
+    "data": [
+      {
+        "text": "How many people ",
+        "userDefined": false
+      },
+      {
+        "text": "die",
+        "alias": "diseases",
+        "meta": "@Diseases",
+        "userDefined": false
+      },
+      {
+        "text": " of coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98d14c54-1d37-4613-b7b4-77acb29a4ad1",
+    "data": [
+      {
+        "text": "What is the fatality rate of coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6f7687b-2b5e-4880-bdeb-aa30a8f2ec25",
+    "data": [
+      {
+        "text": "Will I ",
+        "userDefined": false
+      },
+      {
+        "text": "die",
+        "alias": "diseases",
+        "meta": "@Diseases",
+        "userDefined": false
+      },
+      {
+        "text": " if I get coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33fddc51-04f1-44d7-9f48-8190caf7fa0f",
+    "data": [
+      {
+        "text": "what is the mortality rate of coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

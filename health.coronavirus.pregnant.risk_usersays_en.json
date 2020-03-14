@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f7b4374a-fe30-4750-a715-be95ab5dc526",
+    "data": [
+      {
+        "text": "If pregnant women become infected, will they be sicker than other people?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cbaa75b-4b08-4cc4-a117-195fa6380783",
+    "data": [
+      {
+        "text": "Is it easier for pregnant women to become ill with coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31adf364-51a5-45d1-a962-723868be025a",
+    "data": [
+      {
+        "text": "What is the risk to pregnant women of getting COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

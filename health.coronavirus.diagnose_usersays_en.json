@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0bc7ab37-1bb3-45f9-9776-70ebdf4eb613",
+    "data": [
+      {
+        "text": "How to know if someone has coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4c5e949-dc81-4b2b-842d-4c1b42fbe3c9",
+    "data": [
+      {
+        "text": "How to know if I have coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec1ffdf7-a586-40ee-bca4-978484ad0f6f",
+    "data": [
+      {
+        "text": "How is coronavirus diagnosed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

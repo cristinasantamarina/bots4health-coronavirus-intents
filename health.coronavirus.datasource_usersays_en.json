@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2fb7acf9-9d62-456a-a714-2f8165be6ce6",
+    "data": [
+      {
+        "text": "how do you know so much about coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1eae093f-45bc-482b-b792-1cd67a37206f",
+    "data": [
+      {
+        "text": "where does your data about coronavirus come from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "025fb66f-a1ec-4749-8547-b5dee5090670",
+    "data": [
+      {
+        "text": "where do you take your data about coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

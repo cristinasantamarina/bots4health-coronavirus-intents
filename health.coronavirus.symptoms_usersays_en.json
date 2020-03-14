@@ -1,0 +1,86 @@
+[
+  {
+    "id": "eb17dac9-431a-42de-bf8d-f384f85fdf01",
+    "data": [
+      {
+        "text": "Symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbbf5bcf-7587-484b-9cf3-d4fa5a1c77de",
+    "data": [
+      {
+        "text": "Signs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7f3be93-ece7-4768-9263-e2fe1cdedc81",
+    "data": [
+      {
+        "text": "How to know if I have coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "992f7804-9cf2-4d9f-93f6-54d62a5114c0",
+    "data": [
+      {
+        "text": "If I have a fever, do I have coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455b36e5-b1ef-48c3-8110-47e1cfe6b406",
+    "data": [
+      {
+        "text": "If I have a cough, is it possible that I have coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adb040ad-69ea-400d-b874-7280ea15714b",
+    "data": [
+      {
+        "text": "How can I know if I have coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9bac8a9-d5da-48dd-8701-cd23898b546a",
+    "data": [
+      {
+        "text": "What are the symptoms of coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

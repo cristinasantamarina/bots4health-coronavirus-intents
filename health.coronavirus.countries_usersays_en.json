@@ -1,0 +1,242 @@
+[
+  {
+    "id": "a515727f-35ff-43d0-aefc-43788f69fa8a",
+    "data": [
+      {
+        "text": "how many cases of covid are there in ",
+        "userDefined": false
+      },
+      {
+        "text": "spain",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c79fd495-1244-41f8-b22b-64a3e9bc8270",
+    "data": [
+      {
+        "text": "Italy",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c7d3d19-8f3f-4888-8c5a-3f5ee218aeae",
+    "data": [
+      {
+        "text": "Datos en ",
+        "userDefined": false
+      },
+      {
+        "text": "España",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "611728f6-7677-403b-b20f-069c3c64fb11",
+    "data": [
+      {
+        "text": "Estadísticas en ",
+        "userDefined": false
+      },
+      {
+        "text": "España",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b049527-3d14-4240-af90-261724a05a11",
+    "data": [
+      {
+        "text": "contagios en ",
+        "userDefined": false
+      },
+      {
+        "text": "españa",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "385ed7bd-de06-4f68-b41b-4d6e82d389bb",
+    "data": [
+      {
+        "text": "What are things like in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9c20395-2083-4dd7-8d8f-269856f74032",
+    "data": [
+      {
+        "text": "What is the current situation in ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb6d8ea8-275d-4429-898e-af88c3cb5936",
+    "data": [
+      {
+        "text": "Is the disease very bad in ",
+        "userDefined": false
+      },
+      {
+        "text": "France",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d727ed5-fb42-4f23-bc9a-d51a36d2e305",
+    "data": [
+      {
+        "text": "Is coronavirus very dangerous in ",
+        "userDefined": false
+      },
+      {
+        "text": "Spain",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0fb4f17-fdd2-48c5-818b-9f56e49a589b",
+    "data": [
+      {
+        "text": "What is the coronavirus situation in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c56c2c64-17a8-4324-ab88-d88dd19e7c44",
+    "data": [
+      {
+        "text": "How is coronavirus going in ",
+        "userDefined": false
+      },
+      {
+        "text": "Germany",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2ce3e71-27b0-4887-a030-1e5663465c87",
+    "data": [
+      {
+        "text": "what is the state of coronavirus in ",
+        "userDefined": false
+      },
+      {
+        "text": "italy",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

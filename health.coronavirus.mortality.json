@@ -1,0 +1,44 @@
+{
+  "id": "94adede9-c157-480d-a2ae-f0a19b588ae3",
+  "name": "health.coronavirus.mortality",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e3c99dea-d187-49c3-aefa-54e612db8ca0",
+          "required": false,
+          "dataType": "@Diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Coronavirus is particularly dangerous for older people or people with other diseases. The mortality rate varies from country to country and I can\u0027t give you a figure, sorry!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b765ab3d-3336-4f46-9340-b7c1e96dad29",
+    "data": [
+      {
+        "text": "Can I breastfeed if I have coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d9defa1-e9a0-4a1d-92d3-81be83ace3c3",
+    "data": [
+      {
+        "text": "Is fetal transmission possible with coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcb7d8e3-2ecb-408b-beaf-1972be247e40",
+    "data": [
+      {
+        "text": "If I am pregnant or lactating, can I pass de disease to my baby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4eb13a77-2fd3-4ff5-b66d-062d5942c8aa",
+    "data": [
+      {
+        "text": "Can COVID-19 be passed from a pregnant woman to the fetus or newborn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

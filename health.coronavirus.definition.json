@@ -1,0 +1,50 @@
+{
+  "id": "bd1fa7a6-7ec2-491f-a88b-82b1efc1a27d",
+  "name": "health.coronavirus.definition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e8f852f6-9a6a-4d18-aa67-0155e71be0bf",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A new coronavirus, first identified in China in December 2019, that has caused an outbreak of respiratory illness that the World Health Organization named COVID-19 in February 2020."
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "El coronavirus descubierto en China en Diciembre de 2019 ha desencadenado una pandemia de una enfermedad que la OMS está llamando COVID19."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

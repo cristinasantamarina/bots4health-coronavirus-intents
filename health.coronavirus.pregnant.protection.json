@@ -1,0 +1,49 @@
+{
+  "id": "d02d79a5-c61f-48a9-aff9-539187d60071",
+  "name": "health.coronavirus.pregnant.protection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "messages": [
+              {
+                "text": "CDCs site says pregnant women should do the same things as the general public to avoid infection."
+              }
+            ],
+            "redirect_to_blocks": [
+              "Coronavirus prevention"
+            ]
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

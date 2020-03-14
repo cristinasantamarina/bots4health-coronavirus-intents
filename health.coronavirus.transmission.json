@@ -1,0 +1,31 @@
+{
+  "id": "3adf4fe6-f644-4a12-9d20-50eb0ead1e60",
+  "name": "health.coronavirus.transmission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Usually spreads from close person-to-person contact through respiratory droplets from coughing and sneezing. May also spread through airborne transmission, when tiny droplets remain in the air even after the person with the virus leaves the area."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

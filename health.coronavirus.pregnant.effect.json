@@ -1,0 +1,31 @@
+{
+  "id": "8e2b6d13-a2b6-4331-b4e2-3e5a25cdd2a4",
+  "name": "health.coronavirus.pregnant.effect",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "CDC says on their site that they do not know at this time if COVID-19 would cause problems during pregnancy or affect the health of the baby after birth. I recommend you check with your doctor for more information."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
